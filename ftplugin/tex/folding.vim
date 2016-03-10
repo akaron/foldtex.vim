@@ -302,7 +302,7 @@ function! LatexBox_FoldText()
         else
             let label = s:LabelEnv()
             let caption = s:CaptionEnv()
-            let title = caption
+            let title = env . ' ' . label . ' ' . caption . ' '
         endif
     endif
 
