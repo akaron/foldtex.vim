@@ -1,3 +1,8 @@
+# Update
+Don't use this, use [matze/vim-tex-fold](https://github.com/matze/vim-tex-fold) instead.
+
+----
+
 # About
 This code is modified from a discussion in [stack exchange](https://tex.stackexchange.com/questions/130586/vim-nice-folding-function), which is adapted from [LaTeX-Box](https://github.com/LaTeX-Box-Team/LaTeX-Box) plugin.
 
